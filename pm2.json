@@ -2,7 +2,7 @@
 	"apps": [
 		{
 			"name": "sampleNodejs",
-			"script": "npm start",
+			"script": "index.js",
 			"node_args": "--harmony",
 			"merge_logs": true,
 			"exec_mode": "fork",
